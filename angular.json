@@ -24,7 +24,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css" 
             ],
             "scripts": []
           },
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular-with-HighCharts"
+    }
+  },
+  "defaultProject": "Angular-with-HighCharts",
+  "cli": {
+    "analytics": "4b1c2677-1719-4d44-b75f-65b66088f399"
+  }
 }
