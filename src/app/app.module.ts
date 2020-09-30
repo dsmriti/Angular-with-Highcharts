@@ -4,9 +4,16 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
+import { ChartEventComponent } from './chart-event/chart-event.component';
+import { ChartDrilldownComponent } from './chart-drilldown/chart-drilldown.component';
+import { ChartBasicComponent } from './chart-basic/chart-basic.component';
+
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ChartEventComponent,
+    ChartDrilldownComponent,
+    ChartBasicComponent
   ],
   imports: [
     BrowserModule,
