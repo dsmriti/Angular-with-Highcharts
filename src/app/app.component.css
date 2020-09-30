@@ -1,0 +1,12 @@
+.brand{
+    padding-left: 20px;
+    font-size: 20px;
+    color: #77758c;
+}
+.navbar-nav {
+    font-size: 14px;
+}
+.navbar-nav .nav-link {
+    color: rgb(130, 139, 255);
+    /* text-decoration: underline; */
+}
