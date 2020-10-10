@@ -203,7 +203,10 @@ export class ChartEventComponent implements OnInit {
 
   eventTriggered(xAxisName, yAxisName, yValue){
     console.log("Event Triggered for X Axis :" + xAxisName);
-    console.log("Event Triggered for Y Axis :" + yAxisName, yValue)
+    console.log("Event Triggered for Y Axis :" + yAxisName, yValue);
+    var x = "Value of xAxis: " + xAxisName  + " ";
+    var y = "Value of yAxis: " + yAxisName;
+    alert(x + y);
   }
   }
 
