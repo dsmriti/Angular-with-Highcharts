@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AngularWithHighCharts
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
@@ -28,4 +28,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 =======
 # Angular-with-Highcharts
->>>>>>> 08695644984b088b9a0a4697d5e33708802edf40
